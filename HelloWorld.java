@@ -1,8 +1,7 @@
 public class HelloWord{
 public static void main(String[] args{
 
-
-System.out.println("Hello World. lokalna ispravka nakon pusha");
+System.out.println("Hello World. promena sa Web-a");
 
   }
 }
